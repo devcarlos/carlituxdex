@@ -1,4 +1,6 @@
-<h1 align="center">Hi! <img src="https://github.com/devcarlos/carlituxdex/blob/master/assets/carlitux.png" width="40px"> I'm Carlitux </h1>
+![Carlitux About](https://github.com/devcarlos/carlituxdex/blob/main/assets/carlitux.png?raw=true)
+
+<h1 align="center">Hi! 😎🖖🏻 I'm Carlitux </h1>
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/carlosalcala">
     <img alt="Static Badge" src="https://img.shields.io/badge/Follow_on-Linked_In-blue">
